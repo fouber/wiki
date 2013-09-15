@@ -1,6 +1,12 @@
-wiki
+fis release
 ====
 
-![image](https://raw.github.com/fouber/wiki/master/images/release-domains.png)
+![release](https://raw.github.com/fouber/wiki/master/images/release.png)
+
+
+release with md5 version
+====
+
+![release](https://raw.github.com/fouber/wiki/master/images/release-md5.png)
 
 some wikis
